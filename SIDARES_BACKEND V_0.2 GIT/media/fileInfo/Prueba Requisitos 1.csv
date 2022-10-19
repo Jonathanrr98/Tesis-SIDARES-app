@@ -1,0 +1,11 @@
+﻿Centro;Nombre;Descripción;Tipo
+CDAE;Eliminar riesgos;El sistema debe brindar la posibilidad de eliminar un riesgo del listado y de el otro listado;Funcional
+CDAE;Mostrar datos personales del usuario.; El sistema debe mostrar junto al plan de trabajo del usuario seleccionado los datos personales del mismo. Los cuales son: nombre y apellidos, departamento de producción al que pertenece, número de carnet de identidad, rol que desempeña, centro al que pertenece, tipo de trabajador, número de solapín, periodo del plan de trabajo que se desea ver.;Funcional
+CDAE;Mostrar reporte Plan de Trabajo Hitos Centro.;Este reporte debe mostrar el plan de trabajo de un usuario a nivel de hitos que tiene el centro en un determinado periodo.;Funcional
+CDAE;Mostrar datos personales del usuario.;El sistema no debe mostrar nada junto al plan de trabajo del usuario seleccionado los datos personales del mismo. ;Funcional
+CDAE;Agrupar por tipo de tarea el plan de trabajo de un usuario según los hitos que tiene el centro en un período determinado por proyectos.;El sistema debe mostrar por cada tipo de tarea cada uno de los proyectos a los que pertenece el usuario que esta asignado. Debe mostrar en cada proyecto el listado de hitos del usuario.  Además debe mostrar el id, la prioridad, fecha de inicio y fin de cada hito.;Funcional
+CDAE;Pasar Asistencia;El sistema debe permitir seleccionar una fecha y una sesión y mostrando el listado de los miembros del proyecto, pasar la asistencia a cada uno seleccionando las opciones que brinda el plugin.;Funcional
+CDAE;Revisar Asistencia;El sistema debe permitir consultar la asistencia del proyecto dada la selección de una fecha o un período de tiempo.;Funcional
+CDAE;Gestionar Riesgos;El sistema debe permitir la gestión de los riesgos del proyecto por otra parte debe ser azul.;Funcional
+CDAE;Crear Categorías de riesgos;El sistema debe permitir la creación de categorías de riesgos que permitan agruparlos según sus características.;Funcional
+CDAE;Listar Categorías de riesgos;El sistema debe permitir que se registren empleados y administradores nuevos;Funcional

@@ -1,0 +1,11 @@
+﻿Centro;Nombre;Descripción;Tipo
+CDAE;Eliminar riesgos;El sistema debe permitir aprobar o rechazar las solicitudes de recursos realizadas en los proyectos a partir del listado de solicitudes que se muestra.;Funcional
+CDAE;Mostrar datos personales del usuario.;El sistema permite aplicar una serie de filtros al listado de las solicitudes para facilitar su consulta. Se debe filtrar el listado según el Estado de los recursos y según la Categoría o según la Prioridad.;Funcional
+CDAE;Mostrar reporte Plan de Trabajo Hitos Centro.;El sistema debe permitir que las solicitudes de recursos realizadas en el proyecto puedan ser relacionadas con las tareas de este con el fin de justificar su necesidad.;Funcional
+CDAE;Mostrar datos personales del usuario.;El sistema debe permitir, a nivel de proyecto, mostrar el listado de los recursos disponibles para ser solicitados.;Funcional
+CDAE;Agrupar por tipo de tarea el plan de trabajo de un usuario según los hitos que tiene el centro en un período determinado por proyectos.;El sistema debe permitir filtrar el listado de recursos disponibles a partir de las categorías.;Funcional
+CDAE;Pasar Asistencia;El sistema debe brindar la opción de comprobar  si el recurso fue recibido o  no por el proyecto.;Funcional
+CDAE;Revisar Asistencia;Se debe poder editar página wiki.;Funcional
+CDAE;Gestionar Riesgos;Impide que usuarios modifiquen la wiki;Funcional
+CDAE;Crear Categorías de riesgos;Se debe permitir renombrar la página Wiki.;Funcional
+CDAE;Listar Categorías de riesgos;Se debe poder borrar la página Wiki.;Funcional
